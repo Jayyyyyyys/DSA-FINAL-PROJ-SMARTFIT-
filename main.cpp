@@ -278,6 +278,6 @@ int main() {
         }
     }
 
-    cout << "\nGoodbye!\n";
+    cout << "\nGoodluck to yout fitness journey!\n";
     return 0;
 }
